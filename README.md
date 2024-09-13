@@ -1,2 +1,1 @@
-# OpenCV-practice
-# Url：https://youtu.be/caWF5pcGCMo
+# https://youtu.be/caWF5pcGCMo
